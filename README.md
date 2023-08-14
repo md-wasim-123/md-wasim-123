@@ -1,5 +1,7 @@
 
- 
+ - Mind
+<img src="https://user-images.githubusercontent.com/74038190/212284164-662b26f5-a2e4-49cb-b675-4af56e609afa.gif" width="300">
+<br><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
